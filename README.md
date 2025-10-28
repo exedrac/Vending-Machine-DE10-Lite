@@ -40,3 +40,6 @@
 - Press F to view full logic
 - Ctrl + Click each signal, then right click on any signal -> Radix -> Unsigned: This lets you view all the numbers in the logic.
 
+## Extras
+- Created a testbench skeleton file can be implemented into any desired project
+
