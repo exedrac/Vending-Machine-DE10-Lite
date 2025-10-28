@@ -6,10 +6,6 @@
 -- Vending Machine Logic System
 -- V2.0
 ------------------------
--- Can you use a value that has been updated in the same process? Test experimentally
--- Can you pass set input / output values to something that is not logic_vector?
--- For example, can i set my output to be an unsigned value?
--- How would you implement multiple types of money being inputted at once? (in the money logic)
 
 library ieee;
 use ieee.std_logic_1164.all;
@@ -333,3 +329,4 @@ begin
 	end process;
 	
 end architecture;
+
