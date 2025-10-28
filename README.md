@@ -20,11 +20,11 @@
 16. Assignments -> Device -> Device and Pin Options -> Configuration -> Configuration Mode: Select single uncompressed Image with Memory Initialization (512Kbits UFM)
 
 17. From the main page, in project navigator, set the hierarchy option to files so you can view the files in the directory
-18. Right click vending_machine.vhdl and set as top level entity
-19. Start Compilation (Ctrl + L) and wait for 
-20. Connect the board via USB-B to USB-C cable to computer
-21. Tools -> Programmer -> Hardware Setup: Select the target device
-22. Click Start and Program the Board.
+18. Right click vending_machine_de10.vhdl and set as top level entity
+19. Start Compilation (Ctrl + L) and wait for completion
+21. Connect the board via USB-B to USB-C cable to computer
+22. Tools -> Programmer -> Hardware Setup: Select the target device
+23. Click Start and Program the Board.
 
 ## Testbench Setup
 - Assignments -> Settings -> EDA Tool Settings -> Simulation
