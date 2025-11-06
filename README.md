@@ -1,5 +1,5 @@
 # Vending-Machine-DE10-Lite
-
+USE QUARTUS 18.1
 ## Build Instructions
 1. Create a directory name without any spaces and outside of any cloud service such as OneDrive
 2. Place .vhdl files in directory
